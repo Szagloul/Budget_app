@@ -33,7 +33,7 @@ python budget_app.py
 
 ## Technologies Used
 
-- Python 3.x
+- Python 3.14.2
 
 ## Skills Demonstrated
 
